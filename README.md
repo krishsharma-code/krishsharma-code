@@ -30,3 +30,4 @@
 ### 🤝 Connect with Me
 - **LinkedIn:** [krish-sharma07](https://www.linkedin.com/in/krish-sharma07)
 - **Email:** [krish.krishsharma9376@gmail.com](mailto:krish.krishsharma9376@gmail.com)
+* **Live Website:** [My Termux Hosted Site](https://termuxhub.netlify.app)
