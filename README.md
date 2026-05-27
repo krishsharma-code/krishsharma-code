@@ -26,8 +26,15 @@
 </div>
 
 ---
+### 🏆 My GitHub Achievements
 
+<a href="https://github.com/users/krishsharma-code/achievements/pair-extraordinaire">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire Badge" width="120" />
+</a>
+
+---
 ### 🤝 Connect with Me
 - **LinkedIn:** [krish-sharma07](https://www.linkedin.com/in/krish-sharma07)
 - **Email:** [krish.krishsharma9376@gmail.com](mailto:krish.krishsharma9376@gmail.com)
 * **Live Website:** [My Termux Hosted Site](https://termuxhub.netlify.app)
+---
