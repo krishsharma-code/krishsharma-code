@@ -11,7 +11,6 @@
 
 ---
 
-### 👨‍💻 About Me
 - **Experience Summary:** Specializing in AI Tools at DSEU. AI-Powered Web Development (building & selling static/dynamic websites using prompt engineering), Game Development (Leading 7-member team at VS Gaming Studio using Python logic, Roblox Studio, and Unity), and solid foundations from a Diploma in Computer Applications (DCA) including Advanced Excel and digital operations.
 
 ---
