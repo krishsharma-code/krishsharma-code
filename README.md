@@ -27,10 +27,12 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=radial" alt="Krish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=radial" alt="Top Langs" />
-  <br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=radical" alt="Krish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishsharma-code&theme=radial" alt="GitHub Streak" />
 </div>
 
