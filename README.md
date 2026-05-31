@@ -38,11 +38,11 @@
 
 ## 📊 GitHub Stats
 
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=radical)
+
 
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishsharma-code&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=radical)
+
 
 
 ### 🏆 My GitHub Achievements
