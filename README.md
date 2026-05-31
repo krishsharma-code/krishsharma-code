@@ -17,23 +17,26 @@
 
 
 ## 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</p>
----
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=radical" alt="Krish's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishsharma-code&theme=radical" alt="Current Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
----
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=radical)
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishsharma-code&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=radical)
+
+
 ### 🏆 My GitHub Achievements
 
 <a href="https://github.com/users/krishsharma-code/achievements/pair-extraordinaire">
@@ -54,17 +57,11 @@
 </p>
 
 
----
 ## 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/krish-sharma07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:krish.krishsharma9376@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
- 
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-sharma07)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.krishsharma9376@gmail.com)
+[![Live Website](https://img.shields.io/badge/Live_Website-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://termuxhub.netlify.app)
 
 - **LinkedIn:** [krish-sharma07](https://www.linkedin.com/in/krish-sharma07)
 - **Email:** [krish.krishsharma9376@gmail.com](mailto:krish.krishsharma9376@gmail.com)
