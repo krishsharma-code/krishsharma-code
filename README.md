@@ -1,5 +1,12 @@
 # Krish Sharma 🚀
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishsharma-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+## 🙋‍♂️ About Me
+...
+
 ### AI Tools Specialist & Prompt Engineer | Game Developer (Roblox/Python) | Building AI-Driven Web Solutions | Computer Engineering Student @ DSEU
 
 ---
