@@ -43,6 +43,15 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire Badge" width="120" />
 </a>
 
+<p align="left">
+  <a href="https://github.com/users/krishsharma-code/achievements/pair-extraordinaire">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire Badge" width="120" />
+  </a>
+  <a href="https://github.com/users/krishsharma-code/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="120" />
+  </a>
+</p>
+
 
 ### 🏆 GSSoC '26 Milestones
 
