@@ -26,15 +26,12 @@
 </p>
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
+## 📊 GitHub Stats
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=radical" alt="Krish's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishsharma-code&theme=radical" alt="Current Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishsharma-code&theme=radial" alt="GitHub Streak" />
-</div>
 
 ---
 ### 🏆 My GitHub Achievements
@@ -58,8 +55,7 @@
 
 
 ---
-### 🤝 Connect with Me
-
+## 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/krish-sharma07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -67,7 +63,7 @@
   <a href="mailto:krish.krishsharma9376@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
+ 
 </p>
 
 - **LinkedIn:** [krish-sharma07](https://www.linkedin.com/in/krish-sharma07)
