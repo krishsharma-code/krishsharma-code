@@ -80,9 +80,8 @@
 ## 💭 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&v=1" alt="Random Dev Quote" />
 </p>
-
 
 ## 🤝 Connect with Me
 
