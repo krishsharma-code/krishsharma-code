@@ -77,18 +77,6 @@
 </p>
 
 
-## 🤖 GitHub Copilot Dynamic Suggestions
-
-<p align="center">
-  <a href="https://github.com/features/copilot">
-    <img src="https://readme-quotes-api.vercel.app/api/quote?theme=tokyonight&v=1" alt="GitHub Copilot Suggestion" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Enhanced-blueviolet?style=flat-square&logo=githubcopilot" alt="Copilot Badge" />
-  </p>
-  
 
 
 ## 🤝 Connect with Me
