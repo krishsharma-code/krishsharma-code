@@ -77,6 +77,13 @@
 </p>
 
 
+## 🤖 GitHub Copilot Certified
+
+<p align="center">
+  <a href="https://github.com/features/copilot">
+    <img src="https://github-readme-copilot.vercel.app/api?theme=tokyonight&show_avatar=true" alt="GitHub Copilot Card" />
+  </a>
+</p>
 
 
 ## 🤝 Connect with Me
