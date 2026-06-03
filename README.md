@@ -76,6 +76,13 @@
   <img src="https://github.com/user-attachments/assets/40938aa0-c945-4d41-b71b-fb1a2c4a4d45" width="100" alt="Bounty Hunter" />
 </p>
 
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&v=1" alt="Random Dev Quote" />
+</p>
+
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-sharma07)
