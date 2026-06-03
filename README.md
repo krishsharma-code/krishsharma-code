@@ -76,11 +76,10 @@
   <img src="https://github.com/user-attachments/assets/40938aa0-c945-4d41-b71b-fb1a2c4a4d45" width="100" alt="Bounty Hunter" />
 </p>
 
-
 ## 💭 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&v=1" alt="Random Dev Quote" />
+  <img src="https://readme-quotes-api.vercel.app/api/quote?theme=dark" alt="Random Dev Quote" />
 </p>
 
 ## 🤝 Connect with Me
