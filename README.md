@@ -4,6 +4,30 @@
   <img src="https://komarev.com/ghpvc/?username=krishsharma-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+
+# Hi, I'm Krish Sharma 👋
+
+<div align="left">
+  <!-- Terminal Window Header -->
+  <div style="background-color: #2d3748; padding: 10px; border-top-left-radius: 8px; border-top-right-radius: 8px; display: flex; align-items: center; width: 100%; max-width: 800px;">
+    <div style="background-color: #f56565; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px;"></div>
+    <div style="background-color: #ecc94b; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px;"></div>
+    <div style="background-color: #48bb78; width: 12px; height: 12px; border-radius: 50%;"></div>
+  </div>
+  
+  <!-- Terminal Body Content -->
+  <div style="background-color: #1a202c; padding: 15px; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; width: 100%; max-width: 800px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3);">
+
+```json
+{
+  "name": "Krish Sharma",
+  "role": "Computer Engineering Student @ DSEU",
+  "specialization": "AI Tools & Automation",
+  "languages": ["Python", "JavaScript", "TypeScript", "Bash"],
+  "tools_and_environments": ["Linux", "Termux", "Git/GitHub"],
+  "frameworks_and_apis": ["FastAPI", "React", "Gemini API"]
+}
+
 ## 🙋‍♂️ About Me
 ...
 
