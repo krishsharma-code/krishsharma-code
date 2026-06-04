@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krishsharma-code&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krishsharma-code&theme=dark&hide_border=true)](https://github.com/krishsharma-code)
 
 ## 🐍 My Contribution Snake
 
