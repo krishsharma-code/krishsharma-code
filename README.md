@@ -1,9 +1,6 @@
 # Krish Sharma 🚀
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishsharma-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
+[![Profile Views](https://komarev.com/ghpvc/?username=krishsharma-code&color=blue&style=flat-square&label=PROFILE+VIEWS)](https://github.com/krishsharma-code)
 
 
 
