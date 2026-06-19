@@ -1,7 +1,6 @@
 # Krish Sharma 🚀
 
-[![Profile Views](https://komarev.com/ghpvc/?username=krishsharma-code&color=blue&style=flat-square&label=PROFILE+VIEWS)](https://github.com/krishsharma-code)
-
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishsharma-code&title=Profile+Views)](https://hits.seeyoufarm.com)
 
 
 ## 🙋‍♂️ About Me
