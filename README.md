@@ -2,7 +2,7 @@
 
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishsharma-code&title=Profile+Views)](https://hits.seeyoufarm.com)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=krishsharma-code&color=blue)
 ## 🙋‍♂️ About Me
 ...
 
