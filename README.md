@@ -75,7 +75,7 @@
 </p>
 
 
-
+<a href="https://daily.dev/krishsharma18"><img src="https://api.daily.dev/devcards/v2/raKXALIWVUxHVeL9DVkrB.png?r=428&type=wide" width="652" alt="Krish Sharma's Dev Card"/></a>
 
 ## 🤝 Connect with Me
 
