@@ -72,6 +72,8 @@
   <img src="https://github.com/user-attachments/assets/bbf8af0a-7529-4960-9eff-d208a97009ba" width="100" alt="Discord Verified" />
   <img src="https://github.com/user-attachments/assets/b3a09ed6-0748-4bc6-84cf-883040f7dcf5" width="100" alt="Bounty Master" />
   <img src="https://github.com/user-attachments/assets/40938aa0-c945-4d41-b71b-fb1a2c4a4d45" width="100" alt="Bounty Hunter" />
+  <img width="1080" height="1080" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/7370ee81-a41b-4607-b555-130c383b5799" />
+
 </p>
 
 
