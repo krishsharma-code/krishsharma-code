@@ -66,26 +66,30 @@
 
 <table>
   <tr>
-    <td><img src="./gssoc-badge-profile_complete.png" width="120" alt="Profile Complete"></td>
-    <td><img src="./gssoc-badge-getting_started.png" width="120" alt="Getting Started"></td>
-    <td><img src="./gssoc-badge-first_steps.png" width="120" alt="First Steps"></td>
-    <td><img src="./gssoc-badge-discord_verified.png" width="120" alt="Discord Verified"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/profile_complete.png" width="120" alt="Profile Complete"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/getting_started.png" width="120" alt="Getting Started"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/first_step.png" width="120" alt="First Steps"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/discord.png" width="120" alt="Discord Verified"></td>
   </tr>
   <tr>
-    <td><img src="./gssoc-badge-role_contributor.png" width="120" alt="Role Contributor"></td>
-    <td><img src="./gssoc-badge-point_scorer.png" width="120" alt="Point Scorer"></td>
-    <td><img src="./gssoc-badge-building_momentum.png" width="120" alt="Building Momentum"></td>
-    <td><img src="./gssoc-badge-rising_star.png" width="120" alt="Rising Star"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/contributor.png" width="120" alt="Role Contributor"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/point_scorer.png" width="120" alt="Point Scorer"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/building_momentum.png" width="120" alt="Building Momentum"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/rising_star.png" width="120" alt="Rising Star"></td>
   </tr>
   <tr>
-    <td><img src="./gssoc-badge-power_contributor.png" width="120" alt="Power Contributor"></td>
-    <td><img src="./gssoc-badge-bounty_hunter.png" width="120" alt="Bounty Hunter"></td>
-    <td><img src="./gssoc-badge-bounty_master.png" width="120" alt="Bounty Master"></td>
-    <td><img src="./gssoc-badge-elite.png" width="120" alt="Elite"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/power_contributor.png" width="120" alt="Power Contributor"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/bounty_hunter.png" width="120" alt="Bounty Hunter"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/bounty_master.png" width="120" alt="Bounty Master"></td>
+    <td><img src="https://gssoc.girlscript.tech/assets/Badges/elite.png" width="120" alt="Elite"></td>
   </tr>
 </table>
 
+
+
 <a href="https://daily.dev/krishsharma18"><img src="https://api.daily.dev/devcards/v2/raKXALIWVUxHVeL9DVkrB.png?r=428&type=wide" width="652" alt="Krish Sharma's Dev Card"/></a>
+
+
 
 ## 🤝 Connect with Me
 
