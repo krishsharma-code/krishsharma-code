@@ -62,19 +62,28 @@
 </p>
 
 
-### 🏆 GSSoC '26 Milestones
+## 🏅 GSSoC 2026 Badges
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/2b5c91e6-6572-407a-b780-35c724472fd6" width="100" alt="Role Contributor" />
-  <img src="https://github.com/user-attachments/assets/3c46fcb5-6640-4376-97fe-cfde588745c1" width="100" alt="Profile Complete" />
-  <img src="https://github.com/user-attachments/assets/09b303a9-e5e4-49c1-a3a2-98aa5f93f302" width="100" alt="Point Scorer" />
-  <img src="https://github.com/user-attachments/assets/2fa8ff89-3b18-4178-9e1a-487ddb6e6934" width="100" alt="First Steps" />
-  <img src="https://github.com/user-attachments/assets/bbf8af0a-7529-4960-9eff-d208a97009ba" width="100" alt="Discord Verified" />
-  <img src="https://github.com/user-attachments/assets/b3a09ed6-0748-4bc6-84cf-883040f7dcf5" width="100" alt="Bounty Master" />
-  <img src="https://github.com/user-attachments/assets/40938aa0-c945-4d41-b71b-fb1a2c4a4d45" width="100" alt="Bounty Hunter" />
-
-</p>
-
+<table>
+  <tr>
+    <td><img src="./gssoc-badge-profile_complete.png" width="120" alt="Profile Complete"></td>
+    <td><img src="./gssoc-badge-getting_started.png" width="120" alt="Getting Started"></td>
+    <td><img src="./gssoc-badge-first_steps.png" width="120" alt="First Steps"></td>
+    <td><img src="./gssoc-badge-discord_verified.png" width="120" alt="Discord Verified"></td>
+  </tr>
+  <tr>
+    <td><img src="./gssoc-badge-role_contributor.png" width="120" alt="Role Contributor"></td>
+    <td><img src="./gssoc-badge-point_scorer.png" width="120" alt="Point Scorer"></td>
+    <td><img src="./gssoc-badge-building_momentum.png" width="120" alt="Building Momentum"></td>
+    <td><img src="./gssoc-badge-rising_star.png" width="120" alt="Rising Star"></td>
+  </tr>
+  <tr>
+    <td><img src="./gssoc-badge-power_contributor.png" width="120" alt="Power Contributor"></td>
+    <td><img src="./gssoc-badge-bounty_hunter.png" width="120" alt="Bounty Hunter"></td>
+    <td><img src="./gssoc-badge-bounty_master.png" width="120" alt="Bounty Master"></td>
+    <td><img src="./gssoc-badge-elite.png" width="120" alt="Elite"></td>
+  </tr>
+</table>
 
 <a href="https://daily.dev/krishsharma18"><img src="https://api.daily.dev/devcards/v2/raKXALIWVUxHVeL9DVkrB.png?r=428&type=wide" width="652" alt="Krish Sharma's Dev Card"/></a>
 
