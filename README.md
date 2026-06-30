@@ -61,30 +61,22 @@
   </a>
 </p>
 
-
 ## 🏅 GSSoC 2026 Badges
 
-<table>
-  <tr>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/profile_complete.png" width="120" alt="Profile Complete"></td>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/getting_started.png" width="120" alt="Getting Started"></td>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/first_step.png" width="120" alt="First Steps"></td>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/discord.png" width="120" alt="Discord Verified"></td>
-  </tr>
-  <tr>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/contributor.png" width="120" alt="Role Contributor"></td>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/point_scorer.png" width="120" alt="Point Scorer"></td>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/building_momentum.png" width="120" alt="Building Momentum"></td>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/rising_star.png" width="120" alt="Rising Star"></td>
-  </tr>
-  <tr>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/power_contributor.png" width="120" alt="Power Contributor"></td>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/bounty_hunter.png" width="120" alt="Bounty Hunter"></td>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/bounty_master.png" width="120" alt="Bounty Master"></td>
-    <td><img src="https://gssoc.girlscript.tech/assets/Badges/elite.png" width="120" alt="Elite"></td>
-  </tr>
-</table>
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/058d2718-9238-4760-bc03-1b2f0e4b2150" alt="gssoc-badge-bounty_hunter" width="100" />
+  <img src="https://github.com/user-attachments/assets/d8796a79-ff7b-4b82-ab65-da14292f799d" alt="gssoc-badge-bounty_master" width="100" />
+  <img src="https://github.com/user-attachments/assets/73ddb039-b6eb-42f3-b741-425b25c59d8d" alt="gssoc-badge-building_momentum" width="100" />
+  <img src="https://github.com/user-attachments/assets/b4ff5ff2-ee08-42fc-b837-fa7242a77883" alt="gssoc-badge-discord_verified" width="100" />
+  <img src="https://github.com/user-attachments/assets/2c81d84c-fd6d-4eda-bc7b-ff21842c6b53" alt="gssoc-badge-first_steps" width="100" /><br/>
+  <img src="https://github.com/user-attachments/assets/c78a1d81-47c5-414f-b715-88ba9fb88c4c" alt="gssoc-badge-getting_started" width="100" />
+  <img src="https://github.com/user-attachments/assets/d5d251eb-4f9e-4e02-82d3-de784149cc06" alt="gssoc-badge-point_scorer" width="100" />
+  <img src="https://github.com/user-attachments/assets/13426f1b-9231-408d-a837-25f271721266" alt="gssoc-badge-power_contributor" width="100" />
+  <img src="https://github.com/user-attachments/assets/cb2a7691-6fb9-4559-a88f-a25a087efe51" alt="gssoc-badge-profile_complete" width="100" />
+  <img src="https://github.com/user-attachments/assets/0b4261ed-2b58-43be-9abd-f42af31a8cfc" alt="gssoc-badge-rising_star" width="100" /><br/>
+  <img src="https://github.com/user-attachments/assets/b97097b7-46cf-48dc-ac5b-f9a53eac08ba" alt="gssoc-badge-role_contributor" width="100" />
+  <img width="100"  alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/8e43bbc8-c0b0-4adc-ac65-4dd616f1d155" />
+</p>
 
 
 <a href="https://daily.dev/krishsharma18"><img src="https://api.daily.dev/devcards/v2/raKXALIWVUxHVeL9DVkrB.png?r=428&type=wide" width="652" alt="Krish Sharma's Dev Card"/></a>
