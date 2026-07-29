@@ -79,8 +79,12 @@
 </p>
 
 
+
 <a href="https://daily.dev/krishsharma18"><img src="https://api.daily.dev/devcards/v2/raKXALIWVUxHVeL9DVkrB.png?r=428&type=wide" width="652" alt="Krish Sharma's Dev Card"/></a>
 
+<iframe src="https://github.com/sponsors/krishsharma-code/button" title="Sponsor krishsharma-code" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
+<iframe src="https://github.com/sponsors/krishsharma-code/card" title="Sponsor krishsharma-code" height="225" width="600" style="border: 0;"></iframe>
 
 
 ## 🤝 Connect with Me
