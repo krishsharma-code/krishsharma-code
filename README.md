@@ -83,6 +83,15 @@
 <a href="https://daily.dev/krishsharma18"><img src="https://api.daily.dev/devcards/v2/raKXALIWVUxHVeL9DVkrB.png?r=428&type=wide" width="652" alt="Krish Sharma's Dev Card"/></a>
 
 
+## 💖 Support My Work
+
+If you find my projects helpful, consider supporting me! Your sponsorship helps me build more open-source tools and dedicated resources.
+
+[![Sponsor krishsharma-code](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/krishsharma-code)
+
+
+> 💖 **Direct Sponsor Link:** [github.com/sponsors/krishsharma-code](https://github.com/sponsors/krishsharma-code)
+> 
 
 
 ## 🤝 Connect with Me
