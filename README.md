@@ -107,10 +107,5 @@ If you find my projects helpful, consider supporting me! Your sponsorship helps 
   <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Visit Website" />
 </a>
 
-
-
-
-
-* **Live Website:** [My Termux Hosted Site](https://termuxhub.netlify.app)
 ---
 
