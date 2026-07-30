@@ -102,6 +102,15 @@ If you find my projects helpful, consider supporting me! Your sponsorship helps 
 
 - **LinkedIn:** [krish-sharma07](https://www.linkedin.com/in/krish-sharma07)
 - **Email:** [krish.krishsharma9376@gmail.com](mailto:krish.krishsharma9376@gmail.com)
+
+- <a href="https://krishsharma-code.github.io/termuxhub-website/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Visit Website" />
+</a>
+
+
+
+
+
 * **Live Website:** [My Termux Hosted Site](https://termuxhub.netlify.app)
 ---
 
