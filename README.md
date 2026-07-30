@@ -98,10 +98,9 @@ If you find my projects helpful, consider supporting me! Your sponsorship helps 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-sharma07)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.krishsharma9376@gmail.com)
-[![Live Website](https://img.shields.io/badge/Live_Website-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://termuxhub.netlify.app)
 
 - **LinkedIn:** [krish-sharma07](https://www.linkedin.com/in/krish-sharma07)
-- **Email:** [krish.krishsharma9376@gmail.com](mailto:krish.krishsharma9376@gmail.com)
+
 
 - <a href="https://krishsharma-code.github.io/termuxhub-website/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Visit Website" />
