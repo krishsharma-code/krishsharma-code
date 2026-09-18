@@ -56,10 +56,22 @@
   <a href="https://github.com/users/krishsharma-code/achievements/pair-extraordinaire">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire Badge" width="120" />
   </a>
+
   <a href="https://github.com/users/krishsharma-code/achievements/pull-shark">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="120" />
   </a>
+
+  <a href="https://github.com/users/krishsharma-code/achievements/quickdraw">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw Badge" width="120" />
+  </a>
+  
+  <a href="https://github.com/users/krishsharma-code/achievements/yolo">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO Badge" width="120" />
+  </a>
 </p>
+ 
+
+
 
 ## 🏅 GSSoC 2026 Badges
 
