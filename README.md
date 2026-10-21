@@ -142,7 +142,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Krish Sharma's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Krish Sharma's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
@@ -209,19 +209,24 @@ If you find my projects helpful, consider supporting me! Your sponsorship helps 
 
 
 > 💖 **Direct Sponsor Link:** [github.com/sponsors/krishsharma-code](https://github.com/sponsors/krishsharma-code)
-> 
 
+---
 
-## 🤝 Connect with Me
+## 💭 Developer Philosophy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-sharma07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.krishsharma9376@gmail.com)
+```bash
+krishsharma@github:~$ cat philosophy.txt
+Building in public, breaking systems to understand them, and pushing code daily.
 
-- **LinkedIn:** [krish-sharma07](https://www.linkedin.com/in/krish-sharma07)
+krishsharma@github:~$ echo $STATUS
+always shipping · always learning
 
+krishsharma@github:~$ _
+```
 
-- <a href="https://krishsharma-code.github.io/termuxhub-website/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Visit Website" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishsharma-code&label=Profile%20Visitors&color=36BCF7&style=for-the-badge" alt="Profile visitors" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Thanks for visiting" />
+</p>
 
 ---
