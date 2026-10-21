@@ -12,7 +12,7 @@
 
 <img src="https://hits.sh/github.com/krishsharma-code/krishsharma-code.svg?label=Profile+Views&extraCount=1000&color=blue" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/krishsharma-code?label=Followers&style=flat-square&color=0077b5" alt="Followers" />
-<img src="https://img.shields.io/github/following/krishsharma-code?label=Following&style=flat-square&color=0077b5" alt="Following" />
+<img src="https://img.shields.io/github/stars/krishsharma-code?label=Total%20Stars&style=flat-square&color=0077b5" alt="Total Stars" />
 
 <br/>
 
@@ -145,7 +145,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Krish Sharma's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Krish Sharma's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
