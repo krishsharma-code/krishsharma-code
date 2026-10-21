@@ -11,6 +11,8 @@
 <br/>
 
 <img src="https://hits.sh/github.com/krishsharma-code/krishsharma-code.svg?label=Profile+Views&extraCount=1000&color=blue" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/krishsharma-code?label=Followers&style=flat-square&color=0077b5" alt="Followers" />
+<img src="https://img.shields.io/github/following/krishsharma-code?label=Following&style=flat-square&color=0077b5" alt="Following" />
 
 <br/>
 
@@ -93,7 +95,8 @@
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
+
 - **AI & Automation:** Prompt Engineering, AI Tool Integration
 - **Web Development:** Static & Dynamic Website Building
 - **Game Development:** Python, Roblox Studio, Unity
@@ -146,6 +149,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
+---
+
 ## 🐍 My Contribution Snake
 
 <p align="center">
@@ -156,32 +161,28 @@
   </picture>
 </p>
 
-### 🏆 My GitHub Achievements
+## 🏆 My GitHub Achievements
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/users/krishsharma-code/achievements/pair-extraordinaire">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire Badge" width="120" />
   </a>
-
   <a href="https://github.com/users/krishsharma-code/achievements/pull-shark">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="120" />
   </a>
-
   <a href="https://github.com/users/krishsharma-code/achievements/quickdraw">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw Badge" width="120" />
   </a>
-  
   <a href="https://github.com/users/krishsharma-code/achievements/yolo">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO Badge" width="120" />
   </a>
 </p>
- 
 
-
+---
 
 ## 🏅 GSSoC 2026 Badges
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/058d2718-9238-4760-bc03-1b2f0e4b2150" alt="gssoc-badge-bounty_hunter" width="100" />
   <img src="https://github.com/user-attachments/assets/d8796a79-ff7b-4b82-ab65-da14292f799d" alt="gssoc-badge-bounty_master" width="100" />
   <img src="https://github.com/user-attachments/assets/73ddb039-b6eb-42f3-b741-425b25c59d8d" alt="gssoc-badge-building_momentum" width="100" />
@@ -193,20 +194,20 @@
   <img src="https://github.com/user-attachments/assets/cb2a7691-6fb9-4559-a88f-a25a087efe51" alt="gssoc-badge-profile_complete" width="100" />
   <img src="https://github.com/user-attachments/assets/0b4261ed-2b58-43be-9abd-f42af31a8cfc" alt="gssoc-badge-rising_star" width="100" /><br/>
   <img src="https://github.com/user-attachments/assets/b97097b7-46cf-48dc-ac5b-f9a53eac08ba" alt="gssoc-badge-role_contributor" width="100" />
-  <img width="100"  alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/8e43bbc8-c0b0-4adc-ac65-4dd616f1d155" />
+  <img width="100" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/8e43bbc8-c0b0-4adc-ac65-4dd616f1d155" />
 </p>
 
+---
 
-
-<a href="https://daily.dev/krishsharma18"><img src="https://api.daily.dev/devcards/v2/raKXALIWVUxHVeL9DVkrB.png?r=428&type=wide" width="652" alt="Krish Sharma's Dev Card"/></a>
-
+<p align="center">
+  <a href="https://daily.dev/krishsharma18"><img src="https://api.daily.dev/devcards/v2/raKXALIWVUxHVeL9DVkrB.png?r=428&type=wide" width="652" alt="Krish Sharma's Dev Card"/></a>
+</p>
 
 ## 💖 Support My Work
 
 If you find my projects helpful, consider supporting me! Your sponsorship helps me build more open-source tools and dedicated resources.
 
 [![Sponsor krishsharma-code](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/krishsharma-code)
-
 
 > 💖 **Direct Sponsor Link:** [github.com/sponsors/krishsharma-code](https://github.com/sponsors/krishsharma-code)
 
@@ -225,7 +226,6 @@ krishsharma@github:~$ _
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishsharma-code&label=Profile%20Visitors&color=36BCF7&style=for-the-badge" alt="Profile visitors" />
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Thanks for visiting" />
 </p>
 
