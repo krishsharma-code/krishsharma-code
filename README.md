@@ -2,6 +2,10 @@
 
 ![Profile Views](https://hits.sh/github.com/krishsharma-code/krishsharma-code.svg?label=Profile+Views&extraCount=1000&color=blue)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-sharma07)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://krishsharma-code.github.io/termuxhub-website/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/krishsharma-code)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.krishsharma9376@gmail.com)
 
 ## 🙋‍♂️ About Me
 ...
@@ -14,30 +18,104 @@
 
 ---
 
+## 🚀 What I'm Working On
+
+- **🛡️ Kali Linux Tooling** — Building out a defensive DevSecOps toolkit: automated log rotation, firewall rule auditing, ARP monitoring and container hardening.
+- **🤖 AI Integration** — Wiring LLMs into real workflows: prompt-driven web builds, AI-assisted scripting, and automation that removes repetitive work.
+- **🐧 Linux System Internals** — Going deeper on processes, permissions, `systemd`, networking and the kernel surfaces that defensive tooling depends on.
+- **🌱 Open Source** — Contributing through GSSoC 2026 and maintaining my own public projects with proper documentation, CI and review workflows.
+
+---
+
+## ⭐ Featured Projects
+
+### 🛡️ Kali Linux Automation Toolkit
+
+> 145 production-ready Bash & Python scripts for DevSecOps and defensive security automation — log analysis, network reconnaissance, firewall auditing and system hardening.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishsharma-code/kali-linux-automation)
+[![Latest Release](https://img.shields.io/github/v/release/krishsharma-code/kali-linux-automation?style=for-the-badge&label=Release&color=blue)](https://github.com/krishsharma-code/kali-linux-automation/releases)
+
+### 🎮 Game Development
+
+> Leading a 7-member team at **VS Gaming Studio** — gameplay logic and systems built with Python, Roblox Studio and Unity.
+
+![Roblox](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ursina](https://img.shields.io/badge/Ursina-Engine-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-Engine-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 AI-Powered Web Solutions & Automation
+
+> Building and selling static & dynamic websites using prompt engineering, plus automation workflows that connect AI tools to everyday engineering tasks.
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://krishsharma-code.github.io/termuxhub-website/)
+[![All Repositories](https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishsharma-code?tab=repositories)
+
+---
+
 ### 🛠️ Skills & Tools
 - **AI & Automation:** Prompt Engineering, AI Tool Integration
 - **Web Development:** Static & Dynamic Website Building
 - **Game Development:** Python, Roblox Studio, Unity
 - **Data & Ops:** Advanced Excel, Digital Operations
 
-
 ## 🛠️ Tech Stack & Tools
+
+**💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**🎨 Frameworks & Engines**
+
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ursina](https://img.shields.io/badge/Ursina-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
+**🛡️ Security & Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+**☁️ Cloud & DevOps**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**📊 Data & Productivity**
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=krishsharma-code&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Krish Sharma's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
 ## 🐍 My Contribution Snake
@@ -119,4 +197,3 @@ If you find my projects helpful, consider supporting me! Your sponsorship helps 
 </a>
 
 ---
-
