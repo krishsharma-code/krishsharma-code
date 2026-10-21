@@ -1,11 +1,27 @@
-# Krish Sharma 🚀
+<div align="center">
 
-![Profile Views](https://hits.sh/github.com/krishsharma-code/krishsharma-code.svg?label=Profile+Views&extraCount=1000&color=blue)
+<img src="https://github.com/krishsharma-code.png" width="150" alt="Krish Sharma" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-sharma07)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://krishsharma-code.github.io/termuxhub-website/)
-[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/krishsharma-code)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish.krishsharma9376@gmail.com)
+<h1>Krish Sharma 🚀</h1>
+
+<a href="https://github.com/krishsharma-code">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=60&lines=Computer+Engineering+Student+%28AI+Tools%29+%40+DSEU;Lead+Developer+%40+VS+Gaming+Studio;DevSecOps+%26+Kali+Linux+Automation+Builder;AI-Driven+Web+Solutions+%26+Prompt+Engineer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://hits.sh/github.com/krishsharma-code/krishsharma-code.svg?label=Profile+Views&extraCount=1000&color=blue" alt="Profile Views" />
+
+<br/>
+
+<a href="https://linkedin.com/in/krish-sharma07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://krishsharma-code.github.io/termuxhub-website/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/sponsors/krishsharma-code"><img src="https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+<a href="mailto:krish.krishsharma9376@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
 
 ## 🙋‍♂️ About Me
 ...
@@ -15,6 +31,14 @@
 ---
 
 - **Experience Summary:** Specializing in AI Tools at DSEU. AI-Powered Web Development (building & selling static/dynamic websites using prompt engineering), Game Development (Leading 7-member team at VS Gaming Studio using Python logic, Roblox Studio, and Unity), and solid foundations from a Diploma in Computer Applications (DCA) including Advanced Excel and digital operations.
+
+---
+
+## 💡 Daily Thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily developer thought" />
+</p>
 
 ---
 
@@ -51,6 +75,9 @@
 ![Ursina](https://img.shields.io/badge/Ursina-Engine-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-Engine-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
+[![Dino Game](https://img.shields.io/badge/🦖%20Dino%20Game-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishsharma-code/Dino-game)
+[![Fantasy Character Creator](https://img.shields.io/badge/🧙%20Fantasy%20Character%20Creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishsharma-code/fantasy-character-creator)
+
 ### 🤖 AI-Powered Web Solutions & Automation
 
 > Building and selling static & dynamic websites using prompt engineering, plus automation workflows that connect AI tools to everyday engineering tasks.
@@ -60,8 +87,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
 
-[![Live Website](https://img.shields.io/badge/Live%20Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://krishsharma-code.github.io/termuxhub-website/)
-[![All Repositories](https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishsharma-code?tab=repositories)
+[![TermuxHub Website](https://img.shields.io/badge/🌐%20TermuxHub%20Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishsharma-code/termuxhub-website)
+[![AI Web Portfolio](https://img.shields.io/badge/✨%20AI%20Web%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishsharma-code/ai-web-portfolio)
+[![Live Site](https://img.shields.io/badge/Live%20Site-000000?style=for-the-badge&logo=github&logoColor=white)](https://krishsharma-code.github.io/termuxhub-website/)
 
 ---
 
@@ -109,13 +137,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=krishsharma-code&theme=dark&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=krishsharma-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Krish Sharma's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishsharma-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Krish Sharma's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
 ## 🐍 My Contribution Snake
