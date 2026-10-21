@@ -147,6 +147,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsharma-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishsharma-code&theme=tokyonight" alt="GitHub activity and metrics summary" height="165" />
 </p>
 
 ---
@@ -195,6 +196,22 @@
   <img src="https://github.com/user-attachments/assets/0b4261ed-2b58-43be-9abd-f42af31a8cfc" alt="gssoc-badge-rising_star" width="100" /><br/>
   <img src="https://github.com/user-attachments/assets/b97097b7-46cf-48dc-ac5b-f9a53eac08ba" alt="gssoc-badge-role_contributor" width="100" />
   <img width="100" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/8e43bbc8-c0b0-4adc-ac65-4dd616f1d155" />
+</p>
+
+### ☁️ Google Cloud Skill Badges
+
+<p align="center">
+  <a href="https://www.skills.google/public_profiles/793e9180-3fad-49ca-93b0-bb27ddacd7dc"><img src="https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D" alt="The Basics of Google Cloud Compute skill badge" width="110" /></a>
+  <a href="https://www.skills.google/public_profiles/793e9180-3fad-49ca-93b0-bb27ddacd7dc"><img src="https://cdn.qwiklabs.com/I1TlsJ7q%2BHAYAI14j1n1efZUJjzOX30ktybTOXCXTQE%3D" alt="Configure Service Accounts and IAM Roles for Google Cloud skill badge" width="110" /></a>
+  <a href="https://www.skills.google/public_profiles/793e9180-3fad-49ca-93b0-bb27ddacd7dc"><img src="https://cdn.qwiklabs.com/Kj6dceihYIfHojkjapJHUAJtLZ93H%2BJ727%2FMnbYXZYE%3D" alt="Develop AI-Powered Prototypes in Google AI Studio skill badge" width="110" /></a>
+  <a href="https://www.skills.google/public_profiles/793e9180-3fad-49ca-93b0-bb27ddacd7dc"><img src="https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D" alt="Explore Generative AI in Agent Platform skill badge" width="110" /></a>
+  <a href="https://www.skills.google/public_profiles/793e9180-3fad-49ca-93b0-bb27ddacd7dc"><img src="https://cdn.qwiklabs.com/ajd19cPiPee6d9M7LUQxm%2BnQ6VdHWkZ0G16%2F4SKfPa8%3D" alt="Create Your First Gemini Enterprise Application skill badge" width="110" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.skills.google/public_profiles/793e9180-3fad-49ca-93b0-bb27ddacd7dc">
+    <img src="https://img.shields.io/badge/Google%20Cloud-View%20Verified%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="View verified Google Skills profile" />
+  </a>
 </p>
 
 ---
