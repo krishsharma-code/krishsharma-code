@@ -12,6 +12,8 @@
 
 <img src="https://hits.sh/github.com/krishsharma-code/krishsharma-code.svg?label=Profile+Views&extraCount=1000&color=blue" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/krishsharma-code?label=Followers&style=flat-square&color=0077b5" alt="Followers" />
+<a href="https://github.com/krishsharma-code"><img src="https://img.shields.io/badge/GitHub%20Developer%20Program-Member-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Developer Program Member" /></a>
+<a href="https://github.com/krishsharma-code"><img src="https://img.shields.io/badge/GitHub%20Pro-Subscriber-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pro" /></a>
 
 <br/>
 
